@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "local-desktop": {
+      "command": "python",
+      "args": ["C:/absolute/path/to/local-mcp-server/server.py"],
+      "env": {
+        "MCP_ROOT": "C:/absolute/path/to/your/workspace"
+      }
+    }
+  }
+}
